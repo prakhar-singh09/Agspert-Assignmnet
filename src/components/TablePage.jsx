@@ -47,7 +47,7 @@ import {
         <Td>Spider</Td>
         <Td isNumeric>100</Td>
         <Td isNumeric>24/5/2024(11:07)</Td>
-        <Td><Button onClick={onOpen} colorScheme='white' textColor={'black'}>
+        <Td><Button onClick={onOpen} colorScheme='white' textColor={'Red'}>
           ... 
         </Button></Td>
       </Tr>
@@ -56,7 +56,7 @@ import {
         <Td>Spider</Td>
         <Td isNumeric>210</Td>
         <Td isNumeric>24/5/2024(11:30)</Td>
-        <Td><Button onClick={onOpen} colorScheme='white' textColor={'black'}>
+        <Td><Button onClick={onOpen} colorScheme='white' textColor={'Red'}>
           ... 
         </Button></Td>
       </Tr>

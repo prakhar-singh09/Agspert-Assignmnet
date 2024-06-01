@@ -36,7 +36,7 @@ import {
         if (password === user.password) {
            alert("User logged in")
            await window.localStorage.setItem("token", JSON.stringify("logged"));
-           navigate('/');
+           navigate('/home');
           }
         else 
           alert("wrong password");
